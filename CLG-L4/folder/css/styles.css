@@ -1,11 +1,29 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #section-1 {
     background-color:powderblue;
 }
 
 #section-2 {
-    background-image: url(/'images/insideOutSadness.jpg');
+    color:grey;
+    font-size: large;
+    background: 
+      url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.U55zuYy2SgBb-lhdG0zBswHaEK%26pid%3DApi&f=1.jpg")
+      repeat-x;
+  }
+span {
+    font-weight: 700;
+    font-size: larger;
+    color:olivedrab
+    ;
 }
 
 .Keltner {
     color:rebeccapurple;
+}
+
+#section-3 {
+    font-size: x-small;
 }
