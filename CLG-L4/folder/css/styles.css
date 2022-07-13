@@ -7,11 +7,11 @@ body {
 }
 
 #section-2 {
-    color:grey;
+    color:darkblue;
     font-size: large;
     background: 
-      url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.U55zuYy2SgBb-lhdG0zBswHaEK%26pid%3DApi&f=1.jpg")
-      repeat-x;
+      url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Z0pj-icHjHColTGj_AsG7wHaD2%26pid%3DApi&f=1")
+      no-repeat center;
   }
 span {
     font-weight: 700;
