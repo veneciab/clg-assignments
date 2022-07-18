@@ -1,0 +1,79 @@
+body {
+    background-color: #FFF;
+    margin: 0 auto;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1GrX606pZ2oMn7RYMHoB8QHaE-%26pid%3DApi&f=1.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    position: relative;
+    bottom: 20px;
+    border-image: round;
+}
+
+img {
+    padding: 5px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#image-one img {
+    position: fixed;
+}
+
+.section-1 {
+    background-color: #88b3e7;
+    box-sizing: border-box;
+    padding: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    position: static;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 600;
+    background-color: #DBE9EE;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+  div > h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:medium;
+    font-weight: 300;
+    text-align: center;
+}
+    .answer {
+    border: 1px solid #466995;
+    margin: 20px;
+    display: inline-block;
+    padding: 20px;
+  }
+    .answer:hover {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background: #C0D6DF;
+        color:#88b3e7;
+        display: inline-block;
+    }
+
+    .scores {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 20px;
+        padding: 20px;
+
+    }
+
+    div p span {
+        color:darkred;
+        font-weight: 400;
+    }
+
+#footNote {
+    font-size:small;
+    padding: 20px;
+    }

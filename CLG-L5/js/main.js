@@ -1,0 +1,1 @@
+//add JS code to calculate total then Bittersweet score
