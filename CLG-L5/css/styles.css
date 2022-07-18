@@ -48,32 +48,71 @@ h1 {
     font-weight: 300;
     text-align: center;
 }
-    .answer {
+
+#question h4 span {
+    font-size:xx-small;
+}
+
+#static-btn {
+    background-color:lemonchiffon;
+    border: 2px solid #262262;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 10px;
+    position: fixed;
+    top: 250px;
+    right: 25px;
+}
+
+#answer {
     border: 1px solid #466995;
+    border-radius: 5px;
     margin: 20px;
     display: inline-block;
     padding: 20px;
-  }
-    .answer:hover {
+}
+
+    #answer:hover {
         font-family: Georgia, 'Times New Roman', Times, serif;
         background: #C0D6DF;
         color:#88b3e7;
         display: inline-block;
     }
 
-    .scores {
+ #scores {
+        border: 1px solid #466995;
+        border-radius: 5px;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        margin: 20px;
-        padding: 20px;
-
-    }
+        margin: 10px;
+        padding: 10px;
+        position: relative;
+        width: 800px;
+        height: 250px;
+        background-color: #DBE9EE;
+ }
 
     div p span {
         color:darkred;
         font-weight: 400;
     }
 
-#footNote {
-    font-size:small;
-    padding: 20px;
+    #research {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        border: 1px solid #466995;
+        border-radius: 5px;
+        padding: 10px;
+        font-size: x-small;
+        display: inline;
+        background-color: #88b3e7;
     }
+
+    /*div #sanguine {
+        position: absolute;
+        top: 80px;
+        right: 0;
+        width: 200px;
+        height: 100px;
+        border: 1px solid #466995;
+    } #/
